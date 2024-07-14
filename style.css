@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 70px;
+  background-color: gray;
+  color: aliceblue;
+}
+
+.card-block-a {
+  background-color: darkblue;
+  color: aliceblue;
+}
+
+.card-block-b {
+  background-color: green;
+  color: white;
+}
+
+.card-block-c {
+  background-color: rgb(196, 68, 22);
+  color: white;
+}
